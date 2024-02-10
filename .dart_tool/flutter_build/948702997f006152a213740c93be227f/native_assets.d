@@ -1,0 +1,1 @@
+ /Users/admin/Documents/Codes/flutterApps/obviedo/.dart_tool/flutter_build/948702997f006152a213740c93be227f/native_assets.yaml: 
